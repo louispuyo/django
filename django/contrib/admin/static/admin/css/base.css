@@ -16,12 +16,12 @@ body {
 /* LINKS */
 
 a:link, a:visited {
-    color: #447e9b;
+    color: #282258;
     text-decoration: none;
 }
 
 a:focus, a:hover {
-    color: #036;
+    color: rgb(90, 148, 207);
 }
 
 a:focus {
